@@ -48,10 +48,18 @@ mv
 code. 
 ```
 
+# Nos permite borrar un archivo o carpeta (por ejemplo, rm archivo.txt). Mucho cuidado con este comando, puedes borrar todo tu disco duro.
+
+```
+rm
+```
 
 
-
-
+# Ver el contenido de un archivo (por ejemplo, cat nombre-archivo.txt).
+```
+cat
+```
+ 
 
 
 
