@@ -60,6 +60,11 @@ rm
 cat
 ```
  
+ ### ir al inicio de ubuntu 
+```
+ cd ~
+```
+
 
 
 
