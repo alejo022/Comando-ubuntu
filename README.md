@@ -48,10 +48,19 @@ mv
 code . 
 ```
 
-### Nos permite borrar un archivo o carpeta (por ejemplo, rm archivo.txt). Mucho cuidado con este comando, puedes borrar todo tu disco duro.
+### Nos permite borrar un archivo (por ejemplo, rm archivo.txt). Mucho cuidado con este comando, puedes borrar todo tu disco duro.
 
 ```
 rm
+```
+### Comando que borra una carpeta vacía.
+```
+rm -d nombredelacarpetavacia
+```
+
+### Comando que borra un directorio con un contenido adentro.
+```
+rm -rf nombrededirectorio
 ```
 
 
@@ -59,12 +68,26 @@ rm
 ```
 cat
 ```
- 
- ### ir al inicio de ubuntu 
+
+### Este comando muestra un manual de uso de lo que se ponga consiguinete a él.
+ ```
+man cat
+```
+
+### ir al inicio de ubuntu 
 ```
  cd ~
 ```
 
+### Comando para preguntarle al repositorio de dependencias si hay actualizaciones.
+```
+ sudo apt-get updade
+```
 
+### Con este se aplican las actualizaciones. Se recomienda hacerlo habitualmente.
+
+```
+ sudo apt-get upgrade
+```
 
 
