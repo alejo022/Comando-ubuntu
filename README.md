@@ -13,7 +13,7 @@ cd
 cd ..
 ```
 
-### Abrir archivos de windows
+### Abrir archivos de windows (desde wsl)
 ```
 cd mnt
 ```
