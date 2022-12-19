@@ -33,7 +33,7 @@ sudo
 mkdir
 ```
 
-# Crear archivos vacios
+# Crear archivos
 ```
 touch
 ```
