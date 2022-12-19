@@ -1,2 +1,2 @@
-# Comando-ubuntu
-Comando ubuntu
+# Comandos-ubuntu
+Comandos ubuntu
