@@ -110,4 +110,18 @@ man cat
  sudo apt-get upgrade
 ```
 
+### Para instalar tree y ver el contenido en modo arbol 
+
+```
+  sudo apt-get install tree
+```
+
+### Para ver versión de tree instalado 
+
+```
+  tree --version 
+```
+
+
+
 
