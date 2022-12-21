@@ -73,12 +73,18 @@ code .
 ```
 rm
 ```
+
+### Nos permite borrar una carpeta con el contenido.
+
+```
+rm -r nombredelacarpeta
+```
 ### Comando que borra una carpeta vacía.
 ```
 rm -d nombredelacarpetavacia
 ```
 
-### Comando que borra un directorio con un contenido adentro.
+### Comando que borra un directorio con un contenido adentro de manera forzada (f).
 ```
 rm -rf nombrededirectorio
 ```
