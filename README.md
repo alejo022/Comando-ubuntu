@@ -110,6 +110,18 @@ man cat
  sudo apt-get upgrade
 ```
 
+### Para ver tree, el contenido en modo arbol 
+
+```
+ tree
+```
+
+### Para calcular los niveles que se mostraran con tree, el contenido en modo arbol 
+
+```
+ tree -L (cantidad de niveles)
+```
+
 ### Para instalar tree y ver el contenido en modo arbol 
 
 ```
