@@ -123,5 +123,20 @@ man cat
 ```
 
 
+### Para copiar archivos 
+
+```
+  cp
+```
+
+### Para mover archivos 
+
+```
+  mv
+```
+
+
+
+
 
 
