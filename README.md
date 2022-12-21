@@ -48,12 +48,12 @@ ls -lr
 sudo
 ```
 
-### Crear una nueva carpeta
+### Crear una nueva carpeta, separa con espacion para crear mas de 1
 ```
 mkdir
 ```
 
-### Crear archivos
+### Crear archivos, separa con espacios para crear mas de 1
 ```
 touch
 ```
