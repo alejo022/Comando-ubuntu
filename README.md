@@ -33,6 +33,11 @@ ls -la
 ls -lS
 ```
 
+### Los ordena por tamaño y nos dice cuanto pesan en kb , mb, gb
+```
+ls -lSh
+```
+
 ### Los muestra en reversa.
 ```
 ls -lr
