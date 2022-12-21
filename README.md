@@ -22,6 +22,9 @@ cd mnt
 ```
 ls
 ```
+ls -la: Nos muestra todo, incluso los ocultos.
+ls -lS: Los ordena por tamaño.
+ls -lr: Los muestra en reversa.
 
 ### Permisos de administrador
 ```
