@@ -129,11 +129,6 @@ man cat
   cp
 ```
 
-### Para mover archivos 
-
-```
-  mv
-```
 
 
 
