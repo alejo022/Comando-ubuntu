@@ -185,6 +185,13 @@ man cat
 ```
 
 
+### Observar todo el contenido usando el comando Less
+
+```
+ less [nombreDelArchivoParaAbrir]
+```
+
+
 
 
 
