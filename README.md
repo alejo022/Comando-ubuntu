@@ -202,5 +202,23 @@ Además, puedes buscar palabras dentro del documento. Si presionas la tecla slas
  </p>
 
 
+### Para abrir un archivo desde la terminal. Usa las aplicaciones predeterminadas.
+
+```
+  xdg-open <archivo>
+```
+
+### Para abrir un archivo desde la terminal. Usa las aplicaciones predeterminadas.
+
+```
+  xdg-open <archivo>
+```
+
+### Para abrir un archivo desde la terminal en visual studio code (hacerlo estando en el directorio que deseamos abrir)
+
+```
+  code .
+```
+
 
 
