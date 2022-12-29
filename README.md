@@ -80,6 +80,14 @@ code .
 rm
 ```
 
+### Nos permite borrar una carpeta con el contenido. -i indica un mensaje de confirmación en consola para tener mas control sobre la elección de que archivos queremos eliminar.
+
+```
+rm -i nombredelacarpeta
+```
+
+
+
 ### Nos permite borrar una carpeta con el contenido.
 
 ```
