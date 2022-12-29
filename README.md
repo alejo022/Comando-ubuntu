@@ -197,6 +197,9 @@ Ahora tendrás una especie de interfaz gráfica donde podrás inspeccionar el do
 Además, puedes buscar palabras dentro del documento. Si presionas la tecla slash “/”, en la parte de abajo se habilitará un cuadro donde podrás buscar palabras, solo escribe y presiona enter.
 </p>
 
+<p>
+  Para salir de la interfaz presiona “q”.
+ </p>
 
 
 
