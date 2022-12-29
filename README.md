@@ -58,6 +58,12 @@ mkdir
 touch
 ```
 
+### Para copiar archivos 
+
+```
+  cp
+```
+
 ### Mover archivos/carpetas
 ```
 mv
@@ -140,12 +146,6 @@ man cat
   tree --version 
 ```
 
-
-### Para copiar archivos 
-
-```
-  cp
-```
 
 
 
