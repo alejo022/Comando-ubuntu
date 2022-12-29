@@ -226,3 +226,45 @@ Además, puedes buscar palabras dentro del documento. Si presionas la tecla slas
 ```
   nautilus
 ```
+
+
+#Comandos
+
+
+### Nos permite conocer que tipo de comando es 🤔.
+```
+  type <comando>
+```
+
+### Nos permite crear comandos. Son temporales, se borran al cerrar la terminal 👶🏼.
+```
+  alias l="<secuencia de comandos>"
+```
+
+###  Nos permite consultar un poco de documentación de un comando 📄.
+```
+  help <comando>
+```
+
+###  De manual, nos permite conocer mucha mas información de un comando.
+```
+  man <comando>
+```
+
+
+###  Similar al anterior, pero un poco resumido y con otro formato.
+```
+  info <comando>
+```
+
+###  Describe un comando en una sola línea ☺️. No funciona con todos.
+```
+  whatis <comando>
+```
+
+
+
+
+
+
+
