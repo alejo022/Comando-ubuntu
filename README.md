@@ -191,6 +191,12 @@ man cat
  less [nombreDelArchivoParaAbrir]
 ```
 
+<p>
+Ahora tendrás una especie de interfaz gráfica donde podrás inspeccionar el documento. Puedes usar las flechas y el scroll para moverte arriba y abajo.
+
+Además, puedes buscar palabras dentro del documento. Si presionas la tecla slash “/”, en la parte de abajo se habilitará un cuadro donde podrás buscar palabras, solo escribe y presiona enter.
+</p>
+
 
 
 
