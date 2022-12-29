@@ -221,4 +221,8 @@ Además, puedes buscar palabras dentro del documento. Si presionas la tecla slas
 ```
 
 
+### Para abrir alguna carpeta de archivos (hacerlo estando en la carpeta que deseamos abrir)
 
+```
+  nautilus
+```
