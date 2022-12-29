@@ -155,7 +155,34 @@ man cat
 ```
 
 
+# Explorando el contenido de nuestros archivos
 
+### Nos muestra las primeras 10 líneas de un archivo de texto.
+
+```
+  head <documento de texto> 
+```
+
+
+### Nos muestra las primeras líneas de un archivo de texto que le indiquemos.
+
+```
+  head -n <numero de lineas> <documento de texto> 
+```
+
+
+### Nos muestra las ultimas 10 líneas de un archivo de texto.
+
+```
+  tail <documento>
+```
+
+
+### Nos muestra las ultimas líneas de un archivo de texto que le indiquemos.
+
+```
+  tail <documento de texto> -n <numero de lineas> 
+```
 
 
 
