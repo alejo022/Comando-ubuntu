@@ -253,6 +253,54 @@ Además, puedes buscar palabras dentro del documento. Si presionas la tecla slas
 
 # Wildcards
 
+<p>
+El asterisco * significa cualquier STRING o cadena de texto, entonces si ponemos ls *.txt cualquier archivo .txt se listará.
+</p>
+
+#### Listar todos los archivos que tengan extensión .txt, independientemente del nombre que tengan.
+```
+  ls *.txt
+```
+
+
+#### Listar todos los archivos que inicien con la palabra “datos”, independientemente de cómo siga el nombre o la extensión que tenga.
+```
+  ls datos*
+```
+
+#### Listar todos los archivos que inicien con la palabra “datos” y solamente tengan un caracter más luego de esa palabra.
+```
+  ls datos?
+```
+
+#### Listar todos los archivos que inicien con la palabra “datos” y solamente tengan tres caracteres más luego de esa palabra.
+```
+  ls datos???
+```
+
+
+#### Listar todos los archivos que inicien con una mayúscula, independientemente de cómo siga el nombre o la extensión que tenga.
+```
+  ls [[:upper:]]*
+```
+
+
+#### Listar todos los DIRECTORIOS que inicien con una mayúscula, independientemente de cómo siga el nombre que tenga.
+```
+  ls -d [[:upper:]]*
+```
+
+
+#### Listar todos los DIRECTORIOS que inicien con una minúscula, independientemente de cómo siga el nombre o la extensión que tenga.
+```
+  ls [[:lower:]]*
+```
+
+####  Listar todos los archivos que inicien con la letra “a” o con la letra “d”, independientemente de cómo siga el nombre o la extensión que tenga.
+```
+  ls [ad]*
+```
+
 
 
 
