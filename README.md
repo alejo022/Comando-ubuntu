@@ -23,6 +23,11 @@ cd mnt
 ls
 ```
 
+#### Lista para ver los archivos, enlaces o directorios en formato largo
+```
+ls -l
+```
+
 #### Nos sirve para ver los archivos, Nos muestra todo, incluso los ocultos.
 ```
 ls -la
